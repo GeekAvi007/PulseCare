@@ -6,7 +6,7 @@
         "slug": "heart-health-essentials",
         "description": "Comprehensive guidance on maintaining heart health with expert advice and exercises.",
         "price": 49.99,
-        "instructor": "Dr. Rajesh Kumar",
+        "doctor": "Dr. Rajesh Kumar",
         "isFeatured": true,
         "image": "/services/heart-health.jpg"
       },
@@ -16,7 +16,7 @@
         "slug": "diabetes-care-program",
         "description": "Manage and monitor diabetes effectively with personalized care plans.",
         "price": 59.99,
-        "instructor": "Dr. Meera Sharma",
+        "doctor": "Dr. Meera Sharma",
         "isFeatured": false,
         "image": "/services/diabetes-care.jpg"
       },
@@ -26,7 +26,7 @@
         "slug": "mental-wellness-workshop",
         "description": "Strengthen your mental well-being with mindfulness techniques and expert advice.",
         "price": 39.99,
-        "instructor": "Dr. Priya Nair",
+        "doctor": "Dr. Priya Nair",
         "isFeatured": true,
         "image": "/services/mental-wellness.jpg"
       },
@@ -36,7 +36,7 @@
         "slug": "fitness-for-seniors",
         "description": "Tailored exercises and health tips to promote mobility and strength for seniors.",
         "price": 29.99,
-        "instructor": "Mr. Arvind Gupta",
+        "doctor": "Mr. Arvind Gupta",
         "isFeatured": false,
         "image": "/services/fitness-seniors.jpg"
       },
@@ -46,7 +46,7 @@
         "slug": "nutrition-diet-planning",
         "description": "Personalized diet plans and nutritional advice for a healthier lifestyle.",
         "price": 34.99,
-        "instructor": "Dr. Ananya Rao",
+        "doctor": "Dr. Ananya Rao",
         "isFeatured": true,
         "image": "/services/nutrition.jpg"
       },
@@ -56,7 +56,7 @@
         "slug": "post-surgery-recovery-plan",
         "description": "Step-by-step guidance and exercise plans to accelerate your recovery after surgery.",
         "price": 79.99,
-        "instructor": "Dr. Rohit Verma",
+        "doctor": "Dr. Rohit Verma",
         "isFeatured": false,
         "image": "/services/recovery.jpg"
       },
@@ -66,7 +66,7 @@
         "slug": "chronic-pain-management",
         "description": "Expert-led strategies and therapies to manage chronic pain effectively.",
         "price": 69.99,
-        "instructor": "Dr. Neha Desai",
+        "doctor": "Dr. Neha Desai",
         "isFeatured": true,
         "image": "/services/pain-management.jpg"
       },
@@ -76,7 +76,7 @@
         "slug": "sleep-improvement-program",
         "description": "Proven techniques and guidance for achieving better sleep quality.",
         "price": 44.99,
-        "instructor": "Dr. Kunal Joshi",
+        "doctor": "Dr. Kunal Joshi",
         "isFeatured": false,
         "image": "/services/sleep-improvement.jpg"
       },
@@ -86,7 +86,7 @@
         "slug": "stress-anxiety-relief",
         "description": "Effective stress-relief strategies and relaxation techniques to improve mental health.",
         "price": 49.99,
-        "instructor": "Dr. Swati Agarwal",
+        "doctor": "Dr. Swati Agarwal",
         "isFeatured": true,
         "image": "/services/stress-relief.jpg"
       },
@@ -96,7 +96,7 @@
         "slug": "womens-health-wellness",
         "description": "Focused on key aspects of women's health including hormonal balance, pregnancy care, and fitness.",
         "price": 59.99,
-        "instructor": "Dr. Anjali Sen",
+        "doctor": "Dr. Anjali Sen",
         "isFeatured": true,
         "image": "/services/womens-health.jpg"
       }

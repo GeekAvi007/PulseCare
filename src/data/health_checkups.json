@@ -61,15 +61,15 @@
         "image": "/services/recovery.jpg"
       },
       {
-        "id": 7,
-        "title": "Chronic Pain Management",
-        "slug": "chronic-pain-management",
-        "description": "Expert-led strategies and therapies to manage chronic pain effectively.",
-        "price": 69.99,
-        "doctor": "Dr. Neha Desai",
+        "id": 8,
+        "title": "ECG Monitoring & Analysis",
+        "slug": "ecg-monitoring-analysis",
+        "description": "Accurate ECG monitoring with real-time data visualization and expert insights.",
+        "price": 49.99,
+        "doctor": "Dr. Arjun Mehta",
         "isFeatured": true,
-        "image": "/services/pain-management.jpg"
-      },
+        "image": "/services/ecg-monitoring.jpg"
+      },      
       {
         "id": 8,
         "title": "Sleep Improvement Program",

@@ -1,6 +1,8 @@
 import ChooseUs from "@/components/ChooseUs";
 import FeaturedSection from "@/components/FeaturedSection";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
+import Reach from "@/components/Reach";
 
 
 export default function Home() {
@@ -10,6 +12,8 @@ export default function Home() {
     <HeroSection />
     <FeaturedSection />
     <ChooseUs />
+    <Reach />
+    <Footer />
    </main>
   );
 }

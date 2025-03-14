@@ -52,7 +52,7 @@ export default function DataTableDemo() {
   );
 
   return (
-    <div className="w-full p-4">
+    <div className="w-full p-4 mt-20">
       <input
         type="text"
         placeholder="Filter emails..."

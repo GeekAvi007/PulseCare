@@ -5,6 +5,7 @@ import { cn } from "@/utils/cn";
 import Link from "next/link";
 
 function Navbar({ className }: { className?: string }) {
+  
   const [active, setActive] = useState<string | null>(null);
   return (
     <div
@@ -18,7 +19,7 @@ function Navbar({ className }: { className?: string }) {
         </Link>
         <MenuItem setActive={setActive} active={active} item="Appointments">
           <div className="flex flex-col space-y-4 text-sm ">
-            <HoveredLink href="/appointment">Appointments</HoveredLink>
+            <HoveredLink href="/appointments">Appointments</HoveredLink>
           </div>
         </MenuItem>
         <MenuItem setActive={setActive} active={active} item="Patients">

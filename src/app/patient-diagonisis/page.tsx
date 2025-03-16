@@ -38,6 +38,18 @@ export function GlowingEffectDemo() {
         description="Disease Detection using Computer Vision"
         link="/skin-test"
       />
+            <GridItem
+        icon={<Lock className="h-4 w-4 text-black dark:text-neutral-400" />}
+        title="Parkinsons Disease Detection"
+        description="Disease Detection using Voice"
+        link="/skin-test"
+      />
+            <GridItem
+        icon={<Lock className="h-4 w-4 text-black dark:text-neutral-400" />}
+        title="Mental Health Detection"
+        description="Disease Detection using Computer Vision"
+        link="/skin-test"
+      />
     </ul>
   );
 }

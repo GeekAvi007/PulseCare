@@ -29,7 +29,7 @@ export function GlowingEffectDemo() {
         icon={<Lock className="h-4 w-4 text-black dark:text-neutral-400" />}
         title="Brain Tumor Detection"
         description="Brain Tumor Detection using CT scan plate imagery"
-        link="/brain-tumor"
+        link="https://medical-image-analysis-app-vetfprkxudc87vp7igvzgd.streamlit.app/"
       />
 
       <GridItem
@@ -42,13 +42,19 @@ export function GlowingEffectDemo() {
         icon={<Lock className="h-4 w-4 text-black dark:text-neutral-400" />}
         title="Parkinsons Disease Detection"
         description="Disease Detection using Voice"
-        link="/skin-test"
+        link="/parkinsons"
       />
             <GridItem
         icon={<Lock className="h-4 w-4 text-black dark:text-neutral-400" />}
         title="Mental Health Detection"
-        description="Disease Detection using Computer Vision"
-        link="/skin-test"
+        description="Disease Detection using Computer Vision and ML"
+        link="/mental-health"
+      />
+                  <GridItem
+        icon={<Lock className="h-4 w-4 text-black dark:text-neutral-400" />}
+        title="Pneumonia Detection"
+        description="Detect Pneumonia and its Adverses"
+        link="https://medical-image-analysis-app-vetfprkxudc87vp7igvzgd.streamlit.app/"
       />
     </ul>
   );
